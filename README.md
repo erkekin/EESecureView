@@ -7,7 +7,7 @@ Drag and drop EESecureView directory into your project.
 Then in AppDelegate of your project, import EESecureView.h
 
 
-```
+```Objective-C
 - (void)applicationWillResignActive:(UIApplication *)application {
     
    [EESecureView hideWindow:application];
